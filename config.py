@@ -13,7 +13,7 @@ load_dotenv()
 
 class Config(object):
     # Get a token from @BotFather
-    BOT_TOKEN = os.environ.get("6867597033:AAF04fDRjV5P4zExBnL4kgbVYncYwe4AbfU")
+    BOT_TOKEN = os.environ.get("")
     # The Telegram API things
     API_ID = os.environ.get("24935727")
     API_HASH = os.environ.get("3fd33336629324ecd664e9b6894f0909")
